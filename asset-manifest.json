@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/fernandobarriostelus.github.io/test-react-github/static/css/main.349cc244.css",
-    "main.js": "/fernandobarriostelus.github.io/test-react-github/static/js/main.6e64910c.js",
-    "static/js/787.7a4f2f7b.chunk.js": "/fernandobarriostelus.github.io/test-react-github/static/js/787.7a4f2f7b.chunk.js",
-    "index.html": "/fernandobarriostelus.github.io/test-react-github/index.html",
-    "main.349cc244.css.map": "/fernandobarriostelus.github.io/test-react-github/static/css/main.349cc244.css.map",
-    "main.6e64910c.js.map": "/fernandobarriostelus.github.io/test-react-github/static/js/main.6e64910c.js.map",
-    "787.7a4f2f7b.chunk.js.map": "/fernandobarriostelus.github.io/test-react-github/static/js/787.7a4f2f7b.chunk.js.map"
+    "main.css": "/test-react-github/static/css/main.349cc244.css",
+    "main.js": "/test-react-github/static/js/main.1ecad428.js",
+    "static/js/787.7a4f2f7b.chunk.js": "/test-react-github/static/js/787.7a4f2f7b.chunk.js",
+    "index.html": "/test-react-github/index.html",
+    "main.349cc244.css.map": "/test-react-github/static/css/main.349cc244.css.map",
+    "main.1ecad428.js.map": "/test-react-github/static/js/main.1ecad428.js.map",
+    "787.7a4f2f7b.chunk.js.map": "/test-react-github/static/js/787.7a4f2f7b.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.349cc244.css",
-    "static/js/main.6e64910c.js"
+    "static/js/main.1ecad428.js"
   ]
 }
